@@ -12,7 +12,7 @@ function App() {
               className="bg-transparent border border-[#9e78cf] rounded-[10px] px-4 py-2 w-[381px] h-[40px] text-white focus:outline-none hover:border-[#78CFB0] cursor-pointer"
             />
             <button className="bg-[#9e78cf] rounded-[10px] cursor-pointer hover:bg-[#78CFB0]">
-              <img src="./src/assets/btn.create.svg" alt="" />
+              <img src="/src/assets/btn.create.svg" alt="" />
             </button>
           </div>
           <h3 className="mb-2 text-[white] mb-[17px]">Tasks to do - 4</h3>
@@ -23,10 +23,10 @@ function App() {
               </span>
               <div className="flex space-x-2">
                 <button className="text-green-400 cursor-pointer hover:text-green-500">
-                  <img src="./src/assets/chack.svg" alt="" />
+                  <img src="/src/assets/chack.svg" alt="" />
                 </button>
                 <button className="text-red-400 cursor-pointer hover:text-red-500">
-                  <img src="./src/assets/dalate.svg" alt="" />
+                  <img src="/src/assets/dalate.svg" alt="" />
                 </button>
               </div>
             </div>
@@ -36,10 +36,10 @@ function App() {
               </span>
               <div className="flex space-x-2">
                 <button className="text-green-400 cursor-pointer hover:text-green-500">
-                  <img src="./src/assets/chack.svg" alt="" />
+                  <img src="/src/assets/chack.svg" alt="" />
                 </button>
                 <button className="text-red-400 cursor-pointer hover:text-red-500">
-                  <img src="./src/assets/dalate.svg" alt="" />
+                  <img src="/src/assets/dalate.svg" alt="" />
                 </button>
               </div>
             </div>
@@ -49,10 +49,10 @@ function App() {
               </span>
               <div className="flex space-x-2">
                 <button className="text-green-400 cursor-pointer hover:text-green-500">
-                  <img src="./src/assets/chack.svg" alt="" />
+                  <img src="/src/assets/chack.svg" alt="" />
                 </button>
                 <button className="text-red-400 cursor-pointer hover:text-red-500">
-                  <img src="./src/assets/dalate.svg" alt="" />
+                  <img src="/src/assets/dalate.svg" alt="" />
                 </button>
               </div>
             </div>
@@ -62,10 +62,10 @@ function App() {
               </span>
               <div className="flex space-x-2">
                 <button className="text-green-400 cursor-pointer hover:text-green-500">
-                  <img src="./src/assets/chack.svg" alt="" />
+                  <img src="/src/assets/chack.svg" alt="" />
                 </button>
                 <button className="text-red-400 cursor-pointer hover:text-red-500">
-                  <img src="./src/assets/dalate.svg" alt="" />
+                  <img src="/src/assets/dalate.svg" alt="" />
                 </button>
               </div>
             </div>
@@ -89,7 +89,7 @@ function App() {
               className="bg-transparent border border-[#9e78cf] rounded-[10px] px-4 py-2 w-[381px] h-[40px] text-white focus:outline-none hover:border-[#78CFB0] cursor-pointer"
             />
             <button className="bg-[#9e78cf] rounded-[10px] cursor-pointer hover:bg-[#78CFB0]">
-              <img src="./src/assets/btn.create.svg" alt="" />
+              <img src="/src/assets/btn.create.svg" alt="" />
             </button>
           </div>
           <h3 className="mb-2 text-[white] mb-[17px]">Tasks to do - 4</h3>
@@ -100,10 +100,10 @@ function App() {
               </span>
               <div className="flex space-x-2">
                 <button className="text-green-400 cursor-pointer hover:text-green-500">
-                  <img src="./src/assets/chack.svg" alt="" />
+                  <img src="/src/assets/chack.svg" alt="" />
                 </button>
                 <button className="text-red-400 cursor-pointer hover:text-red-500">
-                  <img src="./src/assets/dalate.svg" alt="" />
+                  <img src="/src/assets/dalate.svg" alt="" />
                 </button>
               </div>
             </div>
@@ -113,10 +113,10 @@ function App() {
               </span>
               <div className="flex space-x-2">
                 <button className="text-green-400 cursor-pointer hover:text-green-500">
-                  <img src="./src/assets/chack.svg" alt="" />
+                  <img src="/src/assets/chack.svg" alt="" />
                 </button>
                 <button className="text-red-400 cursor-pointer hover:text-red-500">
-                  <img src="./src/assets/dalate.svg" alt="" />
+                  <img src="/src/assets/dalate.svg" alt="" />
                 </button>
               </div>
             </div>
@@ -126,10 +126,10 @@ function App() {
               </span>
               <div className="flex space-x-2">
                 <button className="text-green-400 cursor-pointer hover:text-green-500">
-                  <img src="./src/assets/chack.svg" alt="" />
+                  <img src="/src/assets/chack.svg" alt="" />
                 </button>
                 <button className="text-red-400 cursor-pointer hover:text-red-500">
-                  <img src="./src/assets/dalate.svg" alt="" />
+                  <img src="/src/assets/dalate.svg" alt="" />
                 </button>
               </div>
             </div>
@@ -139,10 +139,10 @@ function App() {
               </span>
               <div className="flex space-x-2">
                 <button className="text-green-400 cursor-pointer hover:text-green-500">
-                  <img src="./src/assets/chack.svg" alt="" />
+                  <img src="/src/assets/chack.svg" alt="" />
                 </button>
                 <button className="text-red-400 cursor-pointer hover:text-red-500">
-                  <img src="./src/assets/dalate.svg" alt="" />
+                  <img src="/src/assets/dalate.svg" alt="" />
                 </button>
               </div>
             </div>
